@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/React%20-%20%2361DAFB?style=flat-square&logo=React&logoColor=black" />
 </div>
 
+<h3 align="left"> Tool </h3>
+<div align="left">
+  <img src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=%23FFFFFF"/>
+
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busker362&layout=compact)>
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busker362&show_icons=true&theme=radical) >
