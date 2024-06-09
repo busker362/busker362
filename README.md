@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h3 align="center"> Stack </h3>
-<div align="center">
+<h3 align="left"> Stack </h3>
+<div align="left">
   <img src="https://img.shields.io/badge/%20JAVA%20-blue?style=flat-square" />
 </div>
 
