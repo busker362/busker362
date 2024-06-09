@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=black" />
   <img src="https://img.shields.io/badge/Spring%20-%20%236DB33F?style=flat-square&logo=Spring&logoColor=black" />
   <img src="https://img.shields.io/badge/SpringBoot%20-%20%236DB33F?style=flat-square&logo=SpringBoot&logoColor=black" />
+  <ing src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busker362&show_icons=true&theme=radical)" />
 </div>
 
 <!--
