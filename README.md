@@ -4,12 +4,9 @@
 <div align="left">
   <img src="https://img.shields.io/badge/%20JAVA%20-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/JavaScript%20-yellow?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML-%20%23E34F26?style=flat-square&logo=HTML5&logoColor=black
-"/ >
-  <img src="https://img.shields.io/badge/CSS%20-%20%231572B6?style=flat-square&logo=CSS3&logoColor=black
-" />
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=black
-" />
+  <img src="https://img.shields.io/badge/HTML-%20%23E34F26?style=flat-square&logo=HTML5&logoColor=black"/ >
+  <img src="https://img.shields.io/badge/CSS%20-%20%231572B6?style=flat-square&logo=CSS3&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=black" />
   <img src="https://img.shields.io/badge/Spring%20-%20%236DB33F?style=flat-square&logo=Spring&logoColor=black" />
 </div>
 
