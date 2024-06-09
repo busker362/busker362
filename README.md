@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Spring%20-%20%236DB33F?style=flat-square&logo=Spring&logoColor=black" />
   <img src="https://img.shields.io/badge/SpringBoot%20-%20%236DB33F?style=flat-square&logo=SpringBoot&logoColor=black" />
   <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busker362&show_icons=true&theme=radical
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busker362&show_icons=true&theme=radical)
   </div>
 </div>
 
