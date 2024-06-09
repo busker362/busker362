@@ -2,7 +2,7 @@
 
 <h3 align="center"> Stack </h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/JAVA-darkblue" />
+  <img src="https://img.shields.io/badge/%20JAVA%20-blue?style=flat-square" />
 </div>
 
 <!--
