@@ -8,6 +8,7 @@
   <img src="https://img.shields.io/badge/CSS%20-%20%231572B6?style=flat-square&logo=CSS3&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=MySQL&logoColor=black" />
   <img src="https://img.shields.io/badge/Spring%20-%20%236DB33F?style=flat-square&logo=Spring&logoColor=black" />
+  <img src="https://img.shields.io/badge/SpringBoot%20-%20%236DB33F?style=flat-square&logo=SpringBoot&logoColor=black" />
 </div>
 
 <!--
