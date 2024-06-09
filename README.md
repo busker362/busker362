@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/SpringBoot%20-%20%236DB33F?style=flat-square&logo=SpringBoot&logoColor=black" />
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busker362&layout=compact)
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busker362&show_icons=true&theme=radical) >
 
 <!--
