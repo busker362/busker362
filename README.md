@@ -22,7 +22,8 @@
 
 <h3 align="left"> Connect </h3>
  <a href="mailto:busker362@naver.com">
-   <img src="https://img.shields.io/badge/Naver-d14836?style=flat-square&logo=Naver&logoColor=white&link=leegm1798@naver.com"/>
+   <!--<img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=leegm1798@naver.com"/> -->
+   <img src="https://img.shields.io/badge/Naver%20-%20%2303C75A?style=flat-square&logo=Naver&logoColor=%23FFFFFF" />
 </a>
 
 
