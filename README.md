@@ -22,9 +22,11 @@
 
 <h3 align="left"> Connect </h3>
 <div align="left">
+  <div>
  <a href="mailto:busker362@naver.com">
    <img src="https://img.shields.io/badge/Naver%20-%20%2303C75A?style=flat-square&logo=Naver&logoColor=%23FFFFFF" />
 </a>
+  </div>
  <a href="mailto:cleansky362@gmail.com">
    <img src="https://img.shields.io/badge/Gmail%20-%20%23EA4335?style=flat-square&logo=Gmail&logoColor=%23FFFFFF"/>
 </a>
