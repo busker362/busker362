@@ -16,6 +16,8 @@
 <div align="left">
   <img src="https://img.shields.io/badge/Notion%20-%20%23000000?style=flat-square&logo=Notion&logoColor=%23FFFFFF"/>
   <img src="https://img.shields.io/badge/Git%20-%20%23000000?style=flat-square&logo=Github&logoColor=%23FFFFFF" />
+  <ing src="https://img.shields.io/badge/IntelliJ%20IDEA-%20%23000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=%23FFFFFF" />
+  <img src="https://img.shields.io/badge/Figma%20-%20%23F24E1E?style=flat-square&logo=Figma&logoColor=%23FFFFFF" />
 
 </div>
 
