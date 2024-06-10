@@ -26,7 +26,7 @@
 </a>
 
  <a href="mailto:cleansky362@gmail.com">
-   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
+   <img src="https://img.shields.io/badge/Gmail%20-%20%23EA4335?style=flat-square&logo=Gmail&logoColor=%23FFFFFF"/>
 </a>
 
 
