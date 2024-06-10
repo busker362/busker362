@@ -18,8 +18,14 @@
   <img src="https://img.shields.io/badge/Git%20-%20%23000000?style=flat-square&logo=Github&logoColor=%23FFFFFF" />
   <ing src="https://img.shields.io/badge/IntelliJ%20IDEA-%20%23000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=%23FFFFFF" />
   <img src="https://img.shields.io/badge/Figma%20-%20%23F24E1E?style=flat-square&logo=Figma&logoColor=%23FFFFFF" />
-
 </div>
+
+<h3 align="left"> Connect </h3>
+ <a href="mailto:busker362@naver.com">
+   <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leegm1798@naver.com"/>
+</a>
+
+
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busker362&layout=compact)>
 
