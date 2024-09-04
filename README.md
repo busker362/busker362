@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/Spring%20-%20%236DB33F?style=flat-square&logo=Spring&logoColor=black" />
   <img src="https://img.shields.io/badge/SpringBoot%20-%20%236DB33F?style=flat-square&logo=SpringBoot&logoColor=black" />
   <img src="https://img.shields.io/badge/React%20-%20%2361DAFB?style=flat-square&logo=React&logoColor=black" />
-  <img src="https://img.shields.io/badge/python%20-%20%3776AB?style=flat-square&logo=python&logoColor=black" />
+  <img src="https://img.shields.io/badge/python%20-%20%233776AB?style=flat-square&logo=python&logoColor=black" />
 </div>
 
 <h3 align="left"> Tool </h3>
