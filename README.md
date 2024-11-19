@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
+
 ### 안녕하세요 개발자 지망생입니다
 
 <h3 align="left"> Stack </h3>
