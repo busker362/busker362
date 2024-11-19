@@ -27,19 +27,16 @@
 <div align="left">
  <a href="mailto:busker362@naver.com">
    <img src="https://img.shields.io/badge/Naver%20-%20%2303C75A?style=flat-square&logo=Naver&logoColor=%23FFFFFF" />
-</a>
+</a> 
 
-  
  <a href="mailto:cleansky362@gmail.com">
    <img src="https://img.shields.io/badge/Gmail%20-%20%23EA4335?style=flat-square&logo=Gmail&logoColor=%23FFFFFF"/>
 </a>
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busker362&layout=compact)
 
-
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=busker362&layout=compact)>
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busker362&show_icons=true&theme=radical) >
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=busker362&show_icons=true&theme=radical)>
 
 <!--
 **busker362/busker362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
